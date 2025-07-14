@@ -17,6 +17,15 @@ We have a few ongoing projects in repositories below, to help us share data and 
 
 #### [Roadmap](https://github.com/orgs/Police-Data-Accessibility-Project/projects/21/views/2) | [Docs](https://pdap.io)
 
+### Active services
+Check out our [uptime stats](https://stats.uptimerobot.com/sl3EoLr7KL) for a high-level look at our services. We have several services automated. They include:
+- [Automatic Archives](https://github.com/Police-Data-Accessibility-Project/automatic-archives) of Data Sources
+- Syncing [Data Requests](https://github.com/orgs/Police-Data-Accessibility-Project/projects/26) from our database to GitHub.
+- The Health Monitor checks our app for basic functionality.
+- Notifications are sent to users who follow locations at pdap.io.
+- We geocode locations and agencies which are missing metadata.
+
+
 ```mermaid %% Here's a guide to mermaid syntax: https://mermaid.js.org/syntax/flowchart.html
 
 %%{ init: {
